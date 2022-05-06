@@ -1,0 +1,13 @@
+/Users/judayeung/Desktop/Java/Net/Squares/Squares/bin/Debug/netcoreapp3.1/Squares.deps.json
+/Users/judayeung/Desktop/Java/Net/Squares/Squares/bin/Debug/netcoreapp3.1/Squares.runtimeconfig.json
+/Users/judayeung/Desktop/Java/Net/Squares/Squares/bin/Debug/netcoreapp3.1/Squares.runtimeconfig.dev.json
+/Users/judayeung/Desktop/Java/Net/Squares/Squares/bin/Debug/netcoreapp3.1/Squares.dll
+/Users/judayeung/Desktop/Java/Net/Squares/Squares/bin/Debug/netcoreapp3.1/Squares.pdb
+/Users/judayeung/Desktop/Java/Net/Squares/Squares/obj/Debug/netcoreapp3.1/Squares.csproj.AssemblyReference.cache
+/Users/judayeung/Desktop/Java/Net/Squares/Squares/obj/Debug/netcoreapp3.1/Squares.GeneratedMSBuildEditorConfig.editorconfig
+/Users/judayeung/Desktop/Java/Net/Squares/Squares/obj/Debug/netcoreapp3.1/Squares.AssemblyInfoInputs.cache
+/Users/judayeung/Desktop/Java/Net/Squares/Squares/obj/Debug/netcoreapp3.1/Squares.AssemblyInfo.cs
+/Users/judayeung/Desktop/Java/Net/Squares/Squares/obj/Debug/netcoreapp3.1/Squares.csproj.CoreCompileInputs.cache
+/Users/judayeung/Desktop/Java/Net/Squares/Squares/obj/Debug/netcoreapp3.1/Squares.dll
+/Users/judayeung/Desktop/Java/Net/Squares/Squares/obj/Debug/netcoreapp3.1/Squares.pdb
+/Users/judayeung/Desktop/Java/Net/Squares/Squares/obj/Debug/netcoreapp3.1/Squares.genruntimeconfig.cache
